@@ -8,7 +8,7 @@
 - **Fields of interest:** Cybersecurity, System programming & Game development
 
 ## 📌 Projects
-- 🔹 [MyHunter](https://github.com/EpitechPGEPromo2029/B-MUL-100-LIL-1-1-myhunter-gregoire.fageot) - Recreating the Duck Hunt game in CSFML
+- 🔹 [MyHunter](https://github.com/graigware/MyHunter-Project) - Recreating the Duck Hunt game in CSFML
 - 🔹 [Organized](https://github.com/graigware/Organized-Project) - Deep learning about linked lists
 - 🔹 [my_ls](https://github.com/graigware/ls-Project) - Reimplementation of the `ls` command in C
 
