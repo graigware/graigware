@@ -5,7 +5,7 @@
 ## 🚀 Skills
 - **Languages:** C & Python (for the time being !)
 - **Technologies:** Linux & CSFML
-- **Fields of interest:** Cybersecurity, System programming, Virtualization & Game development
+- **Fields of interest:** Cybersecurity, System programming & Game development
 
 ## 📌 Projects
 - 🔹 [MyHunter](https://github.com/EpitechPGEPromo2029/B-MUL-100-LIL-1-1-myhunter-gregoire.fageot) - Recreating the Duck Hunt game in CSFML
@@ -20,8 +20,8 @@
 ## 📬 Contact Me
 - 📧 Epitech Email: gregoire.fageot@epitech.eu
 - ✉️ Gmail : fageot.gregoire@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: (https://linkedin.com/in/yourprofile)
 
 ---
 
-💡 *Learning is key ! Thanks for visiting my GitHub profile !*
+💡 *Thanks for visiting my GitHub profile !*
