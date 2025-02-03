@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello ! 😁
 
-<!--
-**graigware/graigware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an **Epitech Lille** student, passionate about software development, team projects and problem-solving.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages:** C & Python (for the time being !)
+- **Technologies:** Linux & CSFML
+- **Fields of interest:** Cybersecurity, System programming, Virtualization & Game development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🔹 [MyHunter](https://github.com/EpitechPGEPromo2029/B-MUL-100-LIL-1-1-myhunter-gregoire.fageot) - Recreating the Duck Hunt game in CSFML
+- 🔹 [Organized](https://github.com/EpitechPGEPromo2029/B-CPE-110-LIL-1-1-organized-gregoire.fageot) - Deap learning about linked lists
+- 🔹 [my_ls](https://github.com/EpitechPGEPromo2029/B-PSU-100-LIL-1-1-myls-gregoire.fageot) - Reimplementation of the `ls` command in C
+
+## 📚 Currently Learning
+- 🔸 Advanced Linux system administration (Archlinux, Ubuntu)
+- 🔸 Docker
+- 🔸 Node.Js, npm
+
+## 📬 Contact Me
+- 📧 Epitech Email: gregoire.fageot@epitech.eu
+- ✉️ Gmail : fageot.gregoire@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+
+---
+
+💡 *Learning is key ! Thanks for visiting my GitHub profile !*
