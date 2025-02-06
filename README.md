@@ -20,7 +20,7 @@
 ## 📬 Contact Me
 - 📧 Epitech Email: gregoire.fageot@epitech.eu
 - ✉️ Gmail : fageot.gregoire@gmail.com
-- 💼 LinkedIn: (https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: (www.linkedin.com/in/gregoire-fageot)
 
 ---
 
