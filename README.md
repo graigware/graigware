@@ -14,8 +14,8 @@
 
 ## 📚 Currently Learning
 - 🔸 Advanced Linux system administration (Archlinux, Ubuntu)
-- 🔸 Docker
-- 🔸 Node.Js, npm
+- 🔸 Web
+- 🔸 Data Analysis
 
 ## 📬 Contact Me
 - 📧 Epitech Email: gregoire.fageot@epitech.eu
