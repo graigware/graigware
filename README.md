@@ -1,27 +1,33 @@
 # Hello ! 😁
 
-🎓 I'm an **Epitech Lille** student, passionate about software development, team projects and problem-solving.
+🎓 I'm a first-year **Epitech Lille** student, passionate about **software development** and **cybersecurity**, with a strong interest in **problem-solving**, **team projects**, and **technical challenges**.
 
-## 🚀 Skills
-- **Languages:** C & Python (for the time being !)
-- **Technologies:** Linux & CSFML
-- **Fields of interest:** Cybersecurity, System programming & Game development
+## 🛠️ Skills
+- **Languages:** C, Python, Node.js
+- **Technologies & Tools:** Linux, CSFML, Git, Shell
+- **Cybersecurity:** TryHackMe, red team, blue team & purple team concepts, black-box & white-box testing
 
-## 📌 Projects
-- 🔹 [MyHunter](https://github.com/graigware/MyHunter-Project) - Recreating the Duck Hunt game in CSFML
-- 🔹 [Organized](https://github.com/graigware/Organized-Project) - Deep learning about linked lists
-- 🔹 [my_ls](https://github.com/graigware/ls-Project) - Reimplementation of the `ls` command in C
+## 🔐 Cybersecurity
+- Participating in **CTFs** and **labs** on TryHackMe
+- Experience with **network analysis**, **privilege escalation**, and **system hardening**
+- Interest in **penetration testing**, **ethical hacking**, and **incident response**
 
-## 📚 Currently Learning
-- 🔸 Advanced Linux system administration (Archlinux, Ubuntu)
-- 🔸 Web
-- 🔸 Data Analysis
+## 🚀 Development Projects
+- 🎮 [MyHunter](https://github.com/graigware/MyHunter-Project) – A Duck Hunt clone using CSFML
+- 📦 [Organized](https://github.com/graigware/Organized-Project) – Data structure exploration with linked lists
+- 📁 [my_ls](https://github.com/graigware/ls-Project) – Rebuilding the `ls` command in pure C
+
+## 📚 Currently Exploring
+- 🐧 Advanced Linux system administration
+- 🌐 Web development (Node.js, APIs, MySQL)
+- 📊 Data Analysis (Recreating the pandas lib in C)
+- 🛡️ Security automation & infrastructure scripting
 
 ## 📬 Contact Me
-- 📧 Epitech Email: gregoire.fageot@epitech.eu
-- ✉️ Gmail : fageot.gregoire@gmail.com
-- 💼 LinkedIn: (www.linkedin.com/in/gregoire-fageot)
+- 📧 Epitech: gregoire.fageot@epitech.eu  
+- ✉️ Gmail: fageot.gregoire@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/gregoire-fageot](https://www.linkedin.com/in/gregoire-fageot)
 
 ---
 
-💡 Thanks for visiting my GitHub profile !
+💡 Thanks for stopping by — always open to learning, collaborating, and building cool stuff!
