@@ -17,8 +17,11 @@
 - 📦 [Organized](https://github.com/graigware/Organized-Project) – Data structure exploration with linked lists
 - 📁 [my_ls](https://github.com/graigware/ls-Project) – Rebuilding the `ls` command in pure C
 
+## 👾 Cybersecurity Project
+- [[Pipeto]](https://github.com/graigware/Pipeto-Project) - Purple team first experience
+
 ## 📚 Currently Exploring
-- 🐧 Advanced Linux system administration
+- 🐧 Advanced Linux system administration (Archlinux, Debian)
 - 🌐 Web development (Node.js, APIs, MySQL)
 - 📊 Data Analysis (Recreating the pandas lib in C)
 - 🛡️ Security automation & infrastructure scripting
