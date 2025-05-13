@@ -18,7 +18,7 @@
 - 📁 [my_ls](https://github.com/graigware/ls-Project) – Rebuilding the `ls` command in pure C
 
 ## 👾 Cybersecurity Project
-- [[Pipeto]](https://github.com/graigware/Pipeto-Project) - Purple team first experience
+- 👨‍💻 [[Pipeto]](https://github.com/graigware/Pipeto-Project) - Purple team first experience
 
 ## 📚 Currently Exploring
 - 🐧 Advanced Linux system administration (Archlinux, Debian)
