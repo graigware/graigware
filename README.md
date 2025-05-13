@@ -33,4 +33,4 @@
 
 ---
 
-💡 Thanks for stopping by — always open to learning, collaborating, and building cool stuff!
+💡 Thanks for stopping by — always open to learning, collaborating, and building cool stuff !
