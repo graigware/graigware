@@ -14,7 +14,7 @@
 
 ## 🚀 Development Projects
 - 🎮 [MyHunter](https://github.com/graigware/MyHunter-Project) – A Duck Hunt clone using CSFML
-- 📦 [Organized](https://github.com/graigware/Organized-Project) – Data structure exploration with linked lists
+- 📦 [EPyTodo](https://github.com/graigware/EPyTodo-Project) – REST API development for a todo list application using Node.js and MySQL
 - 📁 [my_ls](https://github.com/graigware/ls-Project) – Rebuilding the `ls` command in pure C
 
 ## 👾 Cybersecurity Project
