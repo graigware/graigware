@@ -3,7 +3,7 @@
 🎓 I'm a first-year **Epitech Lille** student, passionate about **software development** and **cybersecurity**, with a strong interest in **problem-solving**, **team projects**, and **technical challenges**.
 
 ## 🛠️ Skills
-- **Languages:** C, Python, Node.js
+- **Languages:** C, Python, JavaScript (Node.js)
 - **Technologies & Tools:** Linux, CSFML, Git, Shell
 - **Cybersecurity:** TryHackMe, red team, blue team & purple team concepts, black-box & white-box testing
 
