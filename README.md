@@ -3,9 +3,9 @@
 🎓 I'm a first-year **Epitech Lille** student, passionate about **software development** and **cybersecurity**, with a strong interest in **problem-solving**, **team projects**, and **technical challenges**.
 
 ## 🛠️ Skills
-- **Languages:** C, Python, JavaScript (Node.js)
-- **Technologies & Tools:** Linux, CSFML, Git, Shell
-- **Cybersecurity:** TryHackMe, red team, blue team & purple team concepts, black-box & white-box testing
+- **Languages:** C, Python, JavaScript (Node.js), Bash, HTML, CSS
+- **Technologies & Tools:** Linux, CSFML, Git, Shell, JetBrains IDEs (Clion & IntelliJ IDEA)
+- **Cybersecurity:** TryHackMe, red team, blue team & purple team concepts, black-box & white-box testing, Ghidra
 
 ## 🔐 Cybersecurity
 - Participating in **CTFs** and **labs** on TryHackMe
@@ -21,9 +21,7 @@
 - 👨‍💻 [[Pipeto]](https://github.com/graigware/Pipeto-Project) - Purple team first experience
 
 ## 📚 Currently Exploring
-- 🐧 Advanced Linux system administration (Archlinux, Debian)
-- 🌐 Web development (Node.js, APIs, MySQL)
-- 📊 Data Analysis (Recreating the pandas lib in C)
+- 🌐 Web development (Angular & SpringBoot)
 - 🛡️ Security automation & infrastructure scripting
 
 ## 📬 Contact Me
