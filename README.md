@@ -1,10 +1,10 @@
-# Hello ! 😁
+# Hello ! 🙂
 
 🎓 I'm a first-year **Epitech Lille** student, passionate about **software development** and **cybersecurity**, with a strong interest in **problem-solving**, **team projects**, and **technical challenges**.
 
 ## 🛠️ Skills
 - **Languages:** C, Python, JavaScript (Node.js), Bash, HTML, CSS
-- **Technologies & Tools:** Linux, CSFML, Git, Shell, JetBrains IDEs (Clion & IntelliJ IDEA)
+- **Technologies & Tools:** Linux, CSFML, Git, Shell, JetBrains'  IDEs (Clion & IntelliJ IDEA)
 - **Cybersecurity:** TryHackMe, red team, blue team & purple team concepts, black-box & white-box testing, Ghidra
 
 ## 🔐 Cybersecurity
@@ -21,12 +21,12 @@
 - 👨‍💻 [[Pipeto]](https://github.com/graigware/Pipeto-Project) - Purple team first experience
 
 ## 📚 Currently Exploring
-- 🌐 Web development (Angular & SpringBoot)
-- 🛡️ Security automation & infrastructure scripting
+- 🟥 Angular
+- 🍃 Spring Boot
+- 📱 Kotlin
 
 ## 📬 Contact Me
-- 📧 Epitech: gregoire.fageot@epitech.eu  
-- ✉️ Gmail: fageot.gregoire@gmail.com  
+- 📧 Epitech: gregoire.fageot@epitech.eu
 - 💼 LinkedIn: [linkedin.com/in/gregoire-fageot](https://www.linkedin.com/in/gregoire-fageot)
 
 ---
