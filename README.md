@@ -1,26 +1,29 @@
 # Hello ! 🙂
 
-🎓 I'm a second-year **Epitech Lille** student, passionate about **software development** and **cybersecurity**, with a strong interest in **problem-solving**, **team projects**, and **technical challenges**.
+🎓 I'm a second-year **Epitech Lille** student, passionate about **software development** and **cybersecurity**, with a strong interest in **problem-solving**, **team projects**, and **technical challenges**. 
+
+💼 I'm currently working at AG2R LA MONDIALE as a software developer, contributing to the digitization of the company.
 
 ## 🛠️ Skills
-- **Languages:** C, Python, JavaScript (Node.js), Bash, HTML, CSS
-- **Technologies & Tools:** Linux, CSFML, Git, Shell, JetBrains'  IDEs (Clion & IntelliJ IDEA)
-- **Cybersecurity:** TryHackMe, red team, blue team & purple team concepts, black-box & white-box testing, Ghidra
+- **Programming Languages:** C, Python, Bash, HTML, CSS
+- **Runtime:** Node.js
+- **Dev Tools:** Git, Shell, JetBrains' IDE such as Clion & IntelliJ IDEA Ultimate
+- **Dev Environment:** Windows, WSL, Linux (Ubuntu & Arch)
 
 ## 🔐 Cybersecurity
 - Participating in **CTFs** and **labs** on TryHackMe
 - Experience with **network analysis**, **privilege escalation**, and **system hardening**
-- Interest in **penetration testing**, **ethical hacking**, and **incident response**
+- Red team, blue team & purple team concepts, black-box & white-box testing
 
 ## 🚀 Development Projects
 - 📌 [EPyTodo](https://github.com/graigware/EPyTodo-Project) – REST API development for a todo list application using Node.js and MySQL
-- </> [42sh](https://github.com/graigware/42sh-Project) – Rebuilding a shell in C
+- </> [42sh](https://github.com/graigware/42sh-Project) – Rebuilding a shell in C based on tcsh
 
 ## 👾 Cybersecurity Project
 - 👨‍💻 [[Pipeto]](https://github.com/graigware/Pipeto-Project) - Purple team first experience
 
 ## 📚 Currently Exploring
-- 🟥 Angular
+- 🅰️ Angular
 - 🍃 Spring Boot
 - 📱 Kotlin
 
