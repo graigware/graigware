@@ -2,7 +2,7 @@
 
 🎓 I'm a second-year **Epitech Lille** student, passionate about **software development** and **cybersecurity**, with a strong interest in **problem-solving**, **team projects**, and **technical challenges**. 
 
-💼 I'm currently working at AG2R LA MONDIALE as a software developer, contributing to the digitization of the company.
+💼 I'm currently working at **AG2R LA MONDIALE** as a **software developer**, contributing to the **digitization of the company**.
 
 ## 🛠️ Skills
 - **Programming Languages:** C, Python, Bash, HTML, CSS
