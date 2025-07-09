@@ -7,7 +7,7 @@
 ## 🛠️ Skills
 - **Programming Languages:** C, Python, Bash, HTML, CSS
 - **Runtime:** Node.js
-- **Dev Tools:** Git, Shell, JetBrains' IDE such as Clion & IntelliJ IDEA Ultimate
+- **Dev Tools:** Git, Shell, CLion, IntelliJ IDEA Ultimate
 - **Dev Environment:** Windows, WSL, Linux (Ubuntu & Arch)
 
 ## 🔐 Cybersecurity
