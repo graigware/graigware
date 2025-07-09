@@ -1,6 +1,6 @@
 # Hello ! 🙂
 
-🎓 I'm a first-year **Epitech Lille** student, passionate about **software development** and **cybersecurity**, with a strong interest in **problem-solving**, **team projects**, and **technical challenges**.
+🎓 I'm a second-year **Epitech Lille** student, passionate about **software development** and **cybersecurity**, with a strong interest in **problem-solving**, **team projects**, and **technical challenges**.
 
 ## 🛠️ Skills
 - **Languages:** C, Python, JavaScript (Node.js), Bash, HTML, CSS
@@ -13,7 +13,6 @@
 - Interest in **penetration testing**, **ethical hacking**, and **incident response**
 
 ## 🚀 Development Projects
-- 🎮 [MyHunter](https://github.com/graigware/MyHunter-Project) – A Duck Hunt clone using CSFML
 - 📌 [EPyTodo](https://github.com/graigware/EPyTodo-Project) – REST API development for a todo list application using Node.js and MySQL
 - </> [42sh](https://github.com/graigware/42sh-Project) – Rebuilding a shell in C
 
