@@ -5,7 +5,7 @@
 💼 I'm currently working at **AG2R LA MONDIALE** as a **software developer**, contributing to the **digitization of the company**.
 
 ## 🛠️ Skills
-- **Programming Languages:** C, Python, Bash, HTML, CSS
+- **Programming Languages:** C, Python, Bash, HTML, CSS, JavaScript, TypeScript
 - **Runtime:** Node.js
 - **Dev Tools:** Git, Shell, CLion, IntelliJ IDEA Ultimate
 - **Dev Environment:** Windows, WSL, Linux (Ubuntu & Arch)
