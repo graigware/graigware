@@ -1,5 +1,4 @@
-<h1 align="center">Hello ! 🙂 </h1>
-<p align="center">💻 Software Developer & 🔐 Cybersecurity Enthusiast · Epitech Lille</p>
+<h1 align="center">Welcome ! I'm Grégoire a Software Developer and Cybersecurity Enthusiast</h1>
 
 ---
 
@@ -14,23 +13,23 @@
 ## 🛠️ Tech Stack
 
 ### Languages & Runtime
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ### OS & Environments  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![WSL](https://img.shields.io/badge/WSL-008080?style=flat)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-008080?style=flat)
 
 ---
 
@@ -44,9 +43,9 @@
 
 ## 📁 Projects I've done at Epitech
 
-- 📌 [EPyTodo](https://github.com/graigware/EPyTodo-Project) · REST API in Node.js + MySQL  
-- 🐚 [42sh](https://github.com/graigware/42sh-Project) · Unix Shell in C  
 - 👾 [Pipeto](https://github.com/graigware/Pipeto-Project) · First real purple team audit project
+- 🐚 [42sh](https://github.com/graigware/42sh-Project) · Unix Shell in C  
+- 📌 [EPyTodo](https://github.com/graigware/EPyTodo-Project) · REST API in Node.js + MySQL  
 
 ---
 
@@ -58,7 +57,7 @@
 
 ---
 
-## 📬 Let's Connect
+## 📬 My socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregoire-fageot)
 <br>
