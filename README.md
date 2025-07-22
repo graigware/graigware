@@ -35,7 +35,6 @@
 
 - CTFs & labs on **TryHackMe**  
 - Skills: network analysis, privilege escalation, system hardening
-<br>
 - Familiar with red/blue/purple team logic, black-box & white-box audits
 
 ## 📁 Projects I've done at Epitech
