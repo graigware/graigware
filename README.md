@@ -31,7 +31,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-008080?style=flat)
 
-## 🔐 Cybersecurity Side
+## 🔐 Cybersecurity
 
 🎯 CTFs & labs on **TryHackMe**  
 🔎 Skills: network analysis, privilege escalation, system hardening
