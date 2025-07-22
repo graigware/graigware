@@ -7,7 +7,7 @@
 
 🎓 Second-year student at **Epitech Lille**  
 💼 Working at **[AG2R LA MONDIALE](https://www.ag2rlamondiale.fr/)** on software modernization  
-🧠 Passionate about **problem-solving**, **teamwork**, and **CTF challenges**
+🧠 Passionate about **Problem-solving** & **Cybersecurity**
 
 ---
 
@@ -21,7 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-### Tools & IDEs  
+### Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
@@ -37,12 +37,12 @@
 ## 🔐 Cybersecurity Side
 
 🎯 CTFs & labs on **TryHackMe**  
-🔎 Skills: *network analysis, privilege escalation, system hardening*  
-🧠 Familiar with *red/blue/purple team* logic, *black-box/white-box* audits
+🔎 Skills: network analysis, privilege escalation, system hardening
+🧠 Familiar with red/blue/purple team logic, black-box & white-box audits
 
 ---
 
-## 📁 Projects
+## 📁 Projects I've done at Epitech
 
 - 📌 [EPyTodo](https://github.com/graigware/EPyTodo-Project) · REST API in Node.js + MySQL  
 - 🐚 [42sh](https://github.com/graigware/42sh-Project) · Unix Shell in C  
@@ -50,7 +50,7 @@
 
 ---
 
-## 📚 Currently Exploring
+## 📚 Technologies that I'm currently exploring
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
