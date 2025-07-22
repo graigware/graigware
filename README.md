@@ -1,4 +1,4 @@
-<h1 align="center">Welcome on my profile 🌷!</h1>
+<h1 align="center">Welcome to my profile 🌷!</h1>
 
 
 ## 🚀 About Me
@@ -52,7 +52,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregoire-fageot)
 <br>
-📧 gregoire.fageot@epitech.eu
+📧 [gregoire.fageot@epitech.eu](mailto:gregoire.fageot@epitech.eu)
+
+---
 
 <p align="center">
   <img src="assets/Happy-BMO.gif" width="900px" alt="BMO-gif">
