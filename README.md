@@ -67,5 +67,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="coding gif">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.reddit.com/r/adventuretime/comments/1f59wg/made_a_gif_of_dancing_bmo/)" width="400px" alt="coding gif">
 </p>
