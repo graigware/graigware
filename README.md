@@ -1,4 +1,4 @@
-<h1 align="center">Welcome ! I'm Grégoire a Software Developer and Cybersecurity Enthusiast</h1>
+<h1 align="center">Welcome !</h1>
 
 ---
 
@@ -37,6 +37,7 @@
 
 🎯 CTFs & labs on **TryHackMe**  
 🔎 Skills: network analysis, privilege escalation, system hardening
+<br>
 🧠 Familiar with red/blue/purple team logic, black-box & white-box audits
 
 ---
