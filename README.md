@@ -1,36 +1,70 @@
-# Hello ! 🙂
-
-🎓 I'm a second-year **Epitech Lille** student, passionate about **software development** and **cybersecurity**, with a strong interest in **problem-solving**, **team projects**, and **technical challenges**. 
-
-💼 I'm currently working at **AG2R LA MONDIALE** as a **software developer**, contributing to the **digitization of the company**.
-
-## 🛠️ Skills
-- **Programming Languages:** C, Python, Bash, HTML, CSS, JavaScript, TypeScript
-- **Runtime:** Node.js
-- **Dev Tools:** Git, Shell, CLion, IntelliJ IDEA Ultimate
-- **Dev Environment:** Windows, WSL, Linux (Ubuntu & Arch)
-
-## 🔐 Cybersecurity
-- Participating in **CTFs** and **labs** on TryHackMe
-- Experience with **network analysis**, **privilege escalation**, and **system hardening**
-- Red team, blue team & purple team concepts, black-box & white-box testing
-
-## 🚀 Development Projects
-- 📌 [EPyTodo](https://github.com/graigware/EPyTodo-Project) – REST API development for a todo list application using Node.js and MySQL
-- </> [42sh](https://github.com/graigware/42sh-Project) – Rebuilding a shell in C based on tcsh
-
-## 👾 Cybersecurity Project
-- 👨‍💻 [[Pipeto]](https://github.com/graigware/Pipeto-Project) - Purple team first experience
-
-## 📚 Currently Exploring
-- 🅰️ Angular
-- 🍃 Spring Boot
-- 📱 Kotlin
-
-## 📬 Contact Me
-- 📧 Epitech: gregoire.fageot@epitech.eu
-- 💼 LinkedIn: [linkedin.com/in/gregoire-fageot](https://www.linkedin.com/in/gregoire-fageot)
+<h1 align="center">Hello ! 🙂 </h1>
+<p align="center">💻 Software Developer & 🔐 Cybersecurity Enthusiast · Epitech Lille</p>
 
 ---
 
-💡 Thanks for stopping by — always open to learning, collaborating, and building cool stuff !
+## 🚀 About Me
+
+🎓 Second-year student at **Epitech Lille**  
+💼 Working at **AG2R LA MONDIALE** on software modernization  
+🧠 Passionate about **problem-solving**, **teamwork**, and **CTF challenges**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Runtime
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### Tools & IDEs  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### OS & Environments  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL-008080?style=flat)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+---
+
+## 🔐 Cybersecurity Side
+
+🎯 CTFs & labs on **TryHackMe**  
+🔎 Skills: *network analysis, privilege escalation, system hardening*  
+🧠 Familiar with *red/blue/purple team* logic, *black-box/white-box* audits
+
+---
+
+## 📁 Projects
+
+- 📌 [EPyTodo](https://github.com/graigware/EPyTodo-Project) · REST API in Node.js + MySQL  
+- 🐚 [42sh](https://github.com/graigware/42sh-Project) · Unix Shell in C  
+- 👾 [Pipeto](https://github.com/graigware/Pipeto-Project) · First real purple team audit project
+
+---
+
+## 🌱 Learning Now
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregoire-fageot)
+📧 gregoire.fageot@epitech.eu
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="coding gif">
+</p>
