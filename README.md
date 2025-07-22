@@ -5,7 +5,7 @@
 
 🎓 Second-year student at **Epitech Lille**  
 💼 Working at **[AG2R LA MONDIALE](https://www.ag2rlamondiale.fr/)** on software modernization  
-🧠 Passionate about **Problem-solving** & **Cybersecurity**
+🧠 Passionate about **Problem-solving** & **Cybersecurity** <br>
 🗺️ Fun fact on me, I can recognize any flag from any country in the world ! (here is my favorite one 🇰🇮)
 
 ## 🛠️ Tech Stack
