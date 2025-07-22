@@ -67,5 +67,5 @@
 ---
 
 <p align="center">
-  <img src="assets/Happy-BMO.gif" width="600px" alt="BMO-gif">
+  <img src="assets/Happy-BMO.gif" width="900px" alt="BMO-gif">
 </p>
