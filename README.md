@@ -7,7 +7,6 @@
 💼 Working at **[AG2R LA MONDIALE](https://www.ag2rlamondiale.fr/)** on software modernization  
 🧠 Passionate about **Problem-solving** & **Cybersecurity**
 
-
 ## 🛠️ Tech Stack
 
 ### Languages & Runtime
@@ -29,7 +28,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-008080?style=flat)
 
-
 ## 🔐 Cybersecurity Side
 
 🎯 CTFs & labs on **TryHackMe**  
@@ -37,13 +35,11 @@
 <br>
 🧠 Familiar with red/blue/purple team logic, black-box & white-box audits
 
-
 ## 📁 Projects I've done at Epitech
 
 - 👾 [Pipeto](https://github.com/graigware/Pipeto-Project) · First real purple team audit project
 - 🐚 [42sh](https://github.com/graigware/42sh-Project) · Unix Shell in C  
 - 📌 [EPyTodo](https://github.com/graigware/EPyTodo-Project) · REST API in Node.js + MySQL  
-
 
 ## 📚 Technologies that I'm currently exploring
 
@@ -51,13 +47,11 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
-
 ## 📬 My socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregoire-fageot)
 <br>
 📧 gregoire.fageot@epitech.eu
-
 
 <p align="center">
   <img src="assets/Happy-BMO.gif" width="900px" alt="BMO-gif">
