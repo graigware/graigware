@@ -33,16 +33,16 @@
 
 ## 🔐 Cybersecurity
 
-🎯 CTFs & labs on **TryHackMe**  
-🔎 Skills: network analysis, privilege escalation, system hardening
+- CTFs & labs on **TryHackMe**  
+- Skills: network analysis, privilege escalation, system hardening
 <br>
-🧠 Familiar with red/blue/purple team logic, black-box & white-box audits
+- Familiar with red/blue/purple team logic, black-box & white-box audits
 
 ## 📁 Projects I've done at Epitech
 
-- 👾 [Pipeto](https://github.com/graigware/Pipeto-Project) · First real purple team audit project
-- 🐚 [42sh](https://github.com/graigware/42sh-Project) · Unix Shell in C  
-- 📌 [EPyTodo](https://github.com/graigware/EPyTodo-Project) · REST API in Node.js + MySQL  
+- [Pipeto](https://github.com/graigware/Pipeto-Project) · First real purple team audit project
+- [42sh](https://github.com/graigware/42sh-Project) · Unix Shell in C  
+- [EPyTodo](https://github.com/graigware/EPyTodo-Project) · REST API in Node.js + MySQL  
 
 ## 📚 Technologies that I'm currently exploring
 
@@ -54,7 +54,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregoire-fageot)
 <br>
-📧 [gregoire.fageot@epitech.eu](mailto:gregoire.fageot@epitech.eu)
+[gregoire.fageot@epitech.eu](mailto:gregoire.fageot@epitech.eu)
 
 <p align="center">
   <img src="assets/Happy-BMO.gif" width="850px" alt="BMO-gif">
