@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 🎓 Second-year student at **Epitech Lille**  
-💼 Working at **AG2R LA MONDIALE** on software modernization  
+💼 Working at **[AG2R LA MONDIALE](https://www.ag2rlamondiale.fr/)** on software modernization  
 🧠 Passionate about **problem-solving**, **teamwork**, and **CTF challenges**
 
 ---
