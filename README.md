@@ -8,7 +8,7 @@
 🧠 Passionate about **Problem-solving** & **Cybersecurity** <br>
 🗺️ Fun fact on me, I can recognize any flag from any country in the world ! (here is my favorite one, Kiribati : 🇰🇮)
 
-## 🛠️ Tech Stack
+## 💾 Tech that I'm comfortable with
 
 ### Languages & Runtime
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
