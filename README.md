@@ -50,7 +50,7 @@
 
 ---
 
-## 🌱 Learning Now
+## 📚 Currently Exploring
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -61,6 +61,7 @@
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregoire-fageot)
+<br>
 📧 gregoire.fageot@epitech.eu
 
 ---
