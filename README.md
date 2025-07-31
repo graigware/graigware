@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to my profile ! 🌷</h1>
 
 
-## 🚀 About Me
+## 🗣️​ About Me
 
 🎓 Second-year student at **Epitech Lille**  
 💼 Working at **[AG2R LA MONDIALE](https://www.ag2rlamondiale.fr/)** on software modernization  
-🧠 Passionate about **Problem-solving** & **Cybersecurity** <br>
+🛰️ Passionate about **Problem-solving** & **Cybersecurity** <br>
 🗺️ Fun fact on me, I can recognize any flag from any country in the world ! (Here is my favorite one, Kiribati : 🇰🇮)
 
 ## 💾 Technologies
