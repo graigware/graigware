@@ -58,7 +58,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregoire-fageot)
 <br>
 [gregoire.fageot@epitech.eu](mailto:gregoire.fageot@epitech.eu)
-
-<p align="center">
-  <img src="assets/guts.gif" width="850px" alt="Guts-gif">
-</p>
