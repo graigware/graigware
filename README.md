@@ -60,5 +60,5 @@
 [gregoire.fageot@epitech.eu](mailto:gregoire.fageot@epitech.eu)
 
 <p align="center">
-  <img src="assets/guts.gif" alt="Guts-gif">
+  <img src="assets/guts.gif" width="700px" alt="Guts-gif">
 </p>
