@@ -60,5 +60,5 @@
 [gregoire.fageot@epitech.eu](mailto:gregoire.fageot@epitech.eu)
 
 <p align="center">
-  <img src="assets/Happy-BMO.gif" width="850px" alt="BMO-gif">
+  <img src="assets/guts.gif" width="850px" alt="Guts-gif">
 </p>
