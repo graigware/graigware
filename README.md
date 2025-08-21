@@ -59,4 +59,4 @@
 <br>
 [gregoire.fageot@epitech.eu](mailto:gregoire.fageot@epitech.eu)
 
-<img src="assets/guts.gif" width="850px" alt="jin-gif">
+<img src="assets/jin.gif" width="850px" alt="jin-gif">
