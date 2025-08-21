@@ -59,4 +59,6 @@
 <br>
 [gregoire.fageot@epitech.eu](mailto:gregoire.fageot@epitech.eu)
 
-<img src="assets/jin.gif" width="850px" alt="jin-gif">
+<img src="assets/jinwalk.gif" width="350px" alt="jin-gif">
+<img src="assets/mugenwalk.gif" width="350px" alt="mugen-gif">
+<img src="assets/fuuwalk.gif" width="350px" alt="fuu-gif">
