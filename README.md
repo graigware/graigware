@@ -39,7 +39,7 @@
 
 ## 🔐 Cybersecurity
 
-- CTFs on **TryHackMe**  
+- CTFs on TryHackMe
 - Skills: network analysis, privilege escalation, system hardening
 - Familiar with red/blue/purple team logic, black-box & white-box audits
 
@@ -59,6 +59,4 @@
 <br>
 [gregoire.fageot@epitech.eu](mailto:gregoire.fageot@epitech.eu)
 
-<p align="center">
-  <img src="assets/Happy-BMO.gif" width="850px" alt="BMO-gif">
-</p>
+<img src="assets/jin.gif" width="850px" alt="jin-gif">
