@@ -55,7 +55,7 @@
 
 ## 📬 My socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregoire-fageot)
+[LinkedIn](https://www.linkedin.com/in/gregoire-fageot)
 <br>
 [gregoire.fageot@epitech.eu](mailto:gregoire.fageot@epitech.eu)
 
