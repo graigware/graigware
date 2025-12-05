@@ -12,7 +12,7 @@
 
 ### Languages & Frameworks I'm comfy with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-44D1FD?style=flat&logo=fluttert&logoColor=blue)
+![Flutter](https://img.shields.io/badge/Flutter-1FBCFD?style=flat&logo=fluttert&logoColor=blue)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 ### Languages, Frameworks & Runtimes I've also used
