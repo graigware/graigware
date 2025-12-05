@@ -52,7 +52,7 @@
 
 ## 📚 Technologies that I'm currently exploring
 
-![Kotlin](https://img.shields.io/badge/Kotlin-fd6c9e?style=flat&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=flat&logo=kotlin&logoColor=white)
 
 ## 📬 My socials
 
