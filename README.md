@@ -20,6 +20,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 ### Languages & Runtimes I've also used
+![Flutter](https://img.shields.io/badge/Flutter-ADD8E6?style=flat&logo=fluttert&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -51,7 +52,7 @@
 
 ## 📚 Technologies that I'm currently exploring
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-fd6c9e?style=flat&logo=kotlin&logoColor=white)
 
 ## 📬 My socials
 
