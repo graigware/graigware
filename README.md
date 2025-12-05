@@ -15,7 +15,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-44D1FD?style=flat&logo=fluttert&logoColor=blue)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
-### Languages, Framewokrs & Runtimes I've also used
+### Languages, Frameworks & Runtimes I've also used
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
