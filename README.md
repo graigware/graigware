@@ -3,10 +3,9 @@
 
 ## 🗣️​ About Me
 
-🎓 Second-year student at **Epitech Lille**  
-💼 Working at **[AG2R LA MONDIALE](https://www.ag2rlamondiale.fr/)** on software modernization  
-🌷 Passionate about **Problem-solving** & **Cybersecurity** <br>
-🗺️ Fun fact on me, I can recognize any flag from any country in the world ! (Here is my favorite one, Kiribati : 🇰🇮)
+Second-year student at **Epitech Lille**  
+Passionate about **Problem-solving** & **Cybersecurity** <br>
+Fun fact on me, I can recognize any flag from any country in the world ! (Here is my favorite one, Kiribati : 🇰🇮)
 
 ## 💾 Technologies
 
@@ -15,15 +14,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-1FBCFD?style=flat&logo=fluttert&logoColor=blue)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
-### Languages, Frameworks & Runtimes I've also used
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
+### Languages & Frameworks I've also used
+![C](https://img.shields.io/badge/C-C?style=flat&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -41,18 +38,13 @@
 ## 🔐 Cybersecurity
 
 - CTFs on TryHackMe
-- Skills: network analysis, privilege escalation, system hardening
 - Familiar with red/blue/purple team logic, black-box & white-box audits
-
-## 📁 Projects I've done at Epitech
-
 - [Pipeto](https://github.com/graigware/Pipeto-Project) · First real purple team audit project
-- [42sh](https://github.com/graigware/42sh-Project) · Unix Shell in C  
-- [EPyTodo](https://github.com/graigware/EPyTodo-Project) · REST API in Node.js + MySQL  
 
 ## 📚 Technologies that I'm currently exploring
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=flat&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-V?style=flat&logo=kotlin&logoColor=white)
 
 ## 📬 My socials
 
