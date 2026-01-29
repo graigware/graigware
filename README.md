@@ -15,7 +15,7 @@ Fun fact on me, I can recognize any flag from any country in the world ! (Here i
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 ### Languages & Frameworks I've also used
-![C](https://img.shields.io/badge/C-C1572B6?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-1572B6?style=flat&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -44,7 +44,7 @@ Fun fact on me, I can recognize any flag from any country in the world ! (Here i
 ## 📚 Technologies that I'm currently exploring
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=flat&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-C1572B6?style=flat&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1572B6?style=flat&logo=c++&logoColor=white)
 
 ## 📬 My socials
 
