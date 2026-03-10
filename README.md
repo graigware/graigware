@@ -7,7 +7,7 @@ Second-year student at **Epitech Lille**
 Passionate about **Problem-solving** & **Cybersecurity** <br>
 Fun fact on me, I can recognize any flag from any country in the world ! (Here is my favorite one, Kiribati : 🇰🇮)
 
-## 💾 Technologies
+## Technologies
 
 ### Languages & Frameworks I'm comfy with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -35,19 +35,19 @@ Fun fact on me, I can recognize any flag from any country in the world ! (Here i
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-008080?style=flat)
 
-## 🔐 Cybersecurity
+## Cybersecurity
 
 - CTFs on TryHackMe & HackTheBox
 - Familiar with red/blue/purple team logic, black-box & white-box audits
-- [Pipeto](https://github.com/graigware/Pipeto-Project) · First real purple team audit project
-- Hack & Juice
+- [Pipeto](https://github.com/graigware/Pipeto-Project) - First real purple team audit project
+- Hack & Juice - A copy of the OWASP Juice Shop (Web Security)
 
-## 📚 Technologies that I'm currently exploring
+## Technologies that I'm currently exploring
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=flat&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1572B6?style=flat&logo=c++&logoColor=white)
 
-## 📬 My socials
+## My socials
 
 [LinkedIn](https://www.linkedin.com/in/gregoire-fageot)
 <br>
