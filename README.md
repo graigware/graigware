@@ -40,6 +40,7 @@ Fun fact on me, I can recognize any flag from any country in the world ! (Here i
 - CTFs on TryHackMe & HackTheBox
 - Familiar with red/blue/purple team logic, black-box & white-box audits
 - [Pipeto](https://github.com/graigware/Pipeto-Project) · First real purple team audit project
+- Hack & Juice
 
 ## 📚 Technologies that I'm currently exploring
 
