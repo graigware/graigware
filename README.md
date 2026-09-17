@@ -5,48 +5,19 @@
 
 I'm a third-year student at **Epitech Lille**, I also work at **AG2R LA MONDIALE** as an **Assistant Project Manager**. For now, I have more a technical background but I am working to improve my project management skills.
 
-Funny facts :
+Fun facts :
 
-I can recognize any flag from any country in the world and I'm Master on league of legends
+I can recognize any flag from any country in the world and I'm Master on League of Legends.
 
 ## Technologies
 
-Languages & Frameworks I'm comfy with
+Since the beginning of my studies at Epitech in 2024, I've worked with many technologies such as :
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-1FBCFD?style=flat&logo=fluttert&logoColor=blue)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+Flutter, TypeScript, ElysiaJS, C++, Spring Boot, Angular, Python and C
 
-Languages & Frameworks I've also used
+I would say that I'm comfy with most of them (I hate C tbh).
 
-![C](https://img.shields.io/badge/C-1572B6?style=flat&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-
-Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-OS & Environments  
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-008080?style=flat)
-
-## Cybersecurity
-
-- CTFs on TryHackMe & HackTheBox
-- Familiar with red/blue/purple team logic, black-box & white-box audits
-- [Pipeto](https://github.com/graigware/Pipeto-Project) - First real purple team audit project
-- Hack & Juice - A copy of the OWASP Juice Shop (Web Security)
-
-## My socials
+## Socials
 
 [LinkedIn](https://www.linkedin.com/in/gregoire-fageot)
 <br>
