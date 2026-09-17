@@ -22,5 +22,3 @@ I would say that I'm comfy with most of them (I hate C tbh).
 [LinkedIn](https://www.linkedin.com/in/gregoire-fageot)
 <br>
 [gregoire.fageot@epitech.eu](mailto:gregoire.fageot@epitech.eu)
-
-<img src="assets/jinwalk.gif" width="281px" alt="jin-gif"><img src="assets/fuuwalk.gif" width="281px" alt="fuu-gif"><img src="assets/mugenwalk.gif" width="281px" alt="mugen-gif">
