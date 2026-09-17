@@ -7,7 +7,7 @@ I'm a third-year student at **Epitech Lille**, I also work at **AG2R LA MONDIALE
 
 Fun facts :
 
-I can recognize any flag from any country in the world and I'm Master on League of Legends.
+I can recognize any flag from any country in the world and I'm good at League of Legends.
 
 ## Technologies
 
