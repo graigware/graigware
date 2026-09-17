@@ -1,11 +1,13 @@
-<h1 align="center">Welcome to my profile ! 🛰️</h1>
+<h1 align="center">Hello ! 🛰️</h1>
 
 
-## 🗣️​ About Me
+## About Me
 
-Second-year student at **Epitech Lille**  
-Passionate about **Problem-solving** & **Cybersecurity** <br>
-Fun fact on me, I can recognize any flag from any country in the world ! (Here is my favorite one, Kiribati : 🇰🇮)
+I'm a third-year student at **Epitech Lille**, I also work at **AG2R LA MONDIALE** as an **Assistant Project Manager**. For now, I have more a technical background but I am working to improve my project management skills.
+
+Funny facts :
+
+I can recognize any flag from any country in the world and I'm Master on league of legends
 
 ## Technologies
 
@@ -43,11 +45,6 @@ OS & Environments
 - Familiar with red/blue/purple team logic, black-box & white-box audits
 - [Pipeto](https://github.com/graigware/Pipeto-Project) - First real purple team audit project
 - Hack & Juice - A copy of the OWASP Juice Shop (Web Security)
-
-## Technologies that I'm currently exploring
-
-![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=flat&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1572B6?style=flat&logo=c++&logoColor=white)
 
 ## My socials
 
