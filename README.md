@@ -7,11 +7,11 @@ I'm a third-year student at **Epitech Lille**, I also work at **AG2R LA MONDIALE
 
 Fun facts :
 
-I can recognize any flag from any country in the world and I'm good at League of Legends.
+I can recognize any flag from any country in the world, and I'm good at League of Legends.
 
 ## Technologies
 
-Since the beginning of my studies at Epitech in 2024, I've worked with many technologies such as :
+Since starting my studies at Epitech in 2024, I've worked with many technologies, including:
 
 Flutter, TypeScript, ElysiaJS, C++, Spring Boot, Angular, Python and C
 
